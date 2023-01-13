@@ -856,6 +856,7 @@ header, footer{
     align-items: center;
     flex-direction: column;
     background-image: linear-gradient(180deg, rgba(24, 24, 24, 0.9) 3.47%, rgba(24, 24, 24, 0.72) 100%), url(/img/eightpage.png);
+    background-size: cover;
 }
 .nine_page > .title_yellow{
     padding-top: 15%;
