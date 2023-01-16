@@ -787,7 +787,6 @@ header, footer{
 .eight_page{
     position: absolute;
     width: 100%;
-    top: 648%;
 }
 .bottom_form > .type{
     display: grid;
